@@ -7,9 +7,11 @@ html, body{
 }
 
 .circle{
+  float: right;
   height:200px;
   width:200px;
   border-radius: 200px;
   border: 1px solid black;
-  background-color: red;
+  background-color: tomato;
+  opacity: 0.9;
 }
